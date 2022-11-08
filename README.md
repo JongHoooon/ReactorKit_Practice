@@ -1,7 +1,7 @@
 # ReactorKit_Practice
 
 
-![Simulator Screen Recording - iPhone 11 Pro - 2022-11-09 at 03 11 24](https://user-images.githubusercontent.com/98168685/200648025-b47f7aaf-8a95-47a6-9e43-9b601b5545f2.gif)
+
 
 
 ReactorKit의 [README](https://github.com/ReactorKit/ReactorKit#readme)의 transform() 설명을 참고해보면
@@ -12,6 +12,9 @@ ReactorKit의 [README](https://github.com/ReactorKit/ReactorKit#readme)의 trans
 <br> 
 
 reactor가 자기 view에서 발생한 action에 의한 mutation과 다른 view에서 발생한 event에 의한 mutation을 transform()으로 결합하는 코드를 작성해봤습니다.
+
+
+![Simulator Screen Recording - iPhone 11 Pro - 2022-11-09 at 03 44 03](https://user-images.githubusercontent.com/98168685/200649319-046d16b8-5b61-41e4-a2e1-150859340682.gif)
 
 
 
